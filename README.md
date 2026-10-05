@@ -15,37 +15,36 @@ Olá pessoal, Iverson Santos aqui! Inspirado na hype _"Natty or Not"_ do fisicul
     1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
     2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+
 
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# IA Generativa no Dia a Dia do
+Profissional Analista de
+Sistemas PL ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Realizei a criação de Ebook, onde mostra a importância de utilização de IA Generativa e Agentes de IA no dia a dia de um profissional Analista de Sistemas PL
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Utilizei como base Claude para geração do texto básico e também para a geração dos prompt da imagem de cada pagina, para geração da imagem utilizei o Gemini (Nano Banana) e Picsart, para revisão do conteúdo utilizei ChatGPT para revisar o texto. 
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiramente gerei os prompt no Claude para geração das imagens e layout do Ebook, depois que gerei todas as imagens, fui para o texto base com a mesma ferramenta e por fim utilizei o ChatGPT para revisão.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Ebook gerado com IA Generativa e com uma linguagem simples de entender, mostrando os benefícios de um profissional Analista de Sistemas PL, utilizar IA Generativa e Agentes de IA no seu dia a dia.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Foi importante participar desse desafio de criar algo 'natty' com IA, pois me deu uma visão ampla e esse poder da IA Generativa em criar algo que levaria muito tempo em grandes equipes.
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## Links Interessantes
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+[Geração de imagens - Picsart](https://picsart.com/)
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+[Geração de Imagens - Gemini Nano Banana](https://gemini.google.com/)
+
+[Geração de Prompt de imagens e texto base do Ebook - Claude](https://claude.ai/)
+
